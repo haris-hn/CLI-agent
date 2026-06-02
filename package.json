@@ -1,0 +1,24 @@
+{
+  "name": "multi-agent-research-system",
+  "version": "1.0.0",
+  "description": "Multi-Agent AI Research System",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "research",
+    "multi-agent"
+  ],
+  "author": "Mehak",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "groq-sdk": "^1.1.2",
+    "node-fetch": "^3.3.2"
+  }
+}

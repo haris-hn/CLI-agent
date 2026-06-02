@@ -107,3 +107,5 @@ Type any research topic and press Enter — the agents will handle the rest.
 | `organization_restricted` | Create a new Groq account with a different email |
 | `413 token limit` | Already handled — findings are trimmed automatically |
 | `Tavily search failed` | Check your Tavily API key and internet connection |
+
+this is separate project and cli-agentic-assistance is separate project
